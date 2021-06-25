@@ -4,7 +4,7 @@ In this activity you will be writing code to create a function that prints all w
 
 ## Instructions
 
-- Open [Unsolved/log-nums.js](Unsolved/log-nums.js) in your code editor&mdash;this is the only file you will modify in this activity.
+- Open [Unsolved/countdown.js](Unsolved/countdown.js) in your code editor&mdash;this is the only file you will modify in this activity.
 
   - In this file you will be writing code in the body of the `countdown` function to achieve the following:
 
