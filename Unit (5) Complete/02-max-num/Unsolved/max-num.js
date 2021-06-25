@@ -11,6 +11,6 @@ var maxNum = function (arr) {
       maxNumber = arr[i]
     };
   };
-  
+
   return maxNumber;
 };
