@@ -10,7 +10,7 @@ In this activity you will be writing code to create a function returns the [fact
 
     - Return the factorial of the given `num` integer.
 
-    - A factorial of a number is the product of all of all positive integers less than or equal to the number.
+    - A factorial of a number is the product of all positive integers less than or equal to the number.
 
     - e.g. given the following number:
 
